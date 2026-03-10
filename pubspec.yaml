@@ -1,0 +1,37 @@
+name: roof_viewer
+description: RoofVision - Interactive Roof Viewer with 2D/3D visualization and material calculations
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  provider: ^6.1.1
+  xml: ^6.5.0
+  file_picker: ^8.0.0+1
+  vector_math: ^2.1.4
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.6
+  flutter_launcher_icons: ^0.14.4
+  rename: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/xml/
+    - assets/images/
