@@ -161,6 +161,27 @@ Run with: `flutter test`
 
 ---
 
+## Screenshots
+
+### 3D View
+![3D View](screenshots/3d_plan_eagleview.jpeg)
+![3D View](screenshots/3d_plan_hover.jpeg)
+
+### 2D Plan View
+![2D Plan View](screenshots/2d_plan_eagleview.jpeg)
+![2D Plan View](screenshots/2d_plan_hover.jpeg)
+
+### Calculations Panel
+![Calculations](screenshots/calculation.jpeg)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpeg)
+
+### Screen Recording
+[▶ Watch screen recording](screenshots/screen_recording.mp4)
+
+---
+
 ## Time Spent
 
 | Task | Hours |
